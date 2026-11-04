@@ -385,3 +385,16 @@ zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
+# InMobi
+inmobi.com, 6c8b703d3a5a4c279831c8925ce9ef4d, DIRECT, 83e75a7ae333ca9d
+mintegral.com, 10003, RESELLER
+thunder-monetize.com, 3905806597, RESELLER
+blis.com, 33, RESELLER, 61453ae19a4b73f4
+opera.com, pub6871903319744, RESELLER, 55a0c5fd61378de3
+zmaticoo.com, 5135082, RESELLER
+loopme.com, 9724, RESELLER, 6c8d5f95897a5a3b
+admanmedia.com, 2063, RESELLER
+smaato.com, 1100053415, RESELLER, 07bcf65f187117b4
+algorix.co, 54190, RESELLER, 5b394c12fea27a1d
+bidmachine.io, 100, RESELLER
+vidazoo.com, 6ab4e4454da99de3c4d515c9, RESELLER, b6ada874b4d7d0b2
